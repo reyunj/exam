@@ -20,17 +20,11 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Design Decisions:
+  Consistent Branding: I maintained a consistent color scheme, typography, and overall branding throughout the website. Consistency helps in creating a professional and trustworthy impression.
+## Challenges Faced and How I'm Overcome:
+  Limited Technical Knowledge: If I was a beginner, one of the major challenges might have been a lack of technical knowledge. To overcome this, I would have started with online tutorials and courses to learn the basics of web development.
+  Technical Issues: Technical glitches and bugs are common, especially for beginners. I would have been proactive in troubleshooting issues by searching for solutions online.
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+  Overall, while building a website as a beginner can be challenging, dedication to learning and seeking assistance from online resources and communities can help overcome these challenges and create a successful website.
+  
